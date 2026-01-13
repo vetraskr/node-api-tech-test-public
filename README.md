@@ -1,6 +1,6 @@
 # Overview
 
-Task 1: Write a new endpoint that checks a string for a palindrome and returns the following:
+**Task 1** - Write a new endpoint that checks a string for a palindrome and returns the following:
 
 | Status Code | Value | Description                   |
 | ----------- | ----- | ----------------------------- |
@@ -9,7 +9,7 @@ Task 1: Write a new endpoint that checks a string for a palindrome and returns t
 
 [Here](https://examples.yourdictionary.com/palindrome-examples.html) is a list of palindromes to assist.
 
-Task 2: As an additional task, add an endpoint that returns:
+**Task 2** - As an additional task, add an endpoint that returns:
 
 | Status Code | Value | Description                   |
 | ----------- | ----- | ----------------------------- |
